@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+	<libro>
+		<titulo anyo="2008">Introduction to Linux</titulo>
+		<autor>
+		    <nombre>Machtelt</nombre> 
+		    <nombre>Garrels</nombre>		 
+		</autor>
+		<editor>O'Reilly</editor>
+		<paginas>256</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1991">El lenguaje de programación C</titulo>
+		<autor>
+		    <nombre>Kernighan</nombre> 
+		    <nombre>Ritchie</nombre>
+		</autor>
+		<editor>Prentice Hall</editor>
+		<paginas>294</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="2016">Mi tio teo lee</titulo>
+		<autor>
+		    <nombre>Arturito</nombre> 		 
+		</autor>
+		<editor>Alfaguara</editor>
+		<paginas>340</paginas>
+	</libro>
+	<libro>
+		<titulo anyo="1991">Excursión al parque</titulo>
+		<autor>
+		    <nombre>Cervantes</nombre> 
+		    <nombre>Poe</nombre>
+		    <nombre>Unamuno</nombre>
+		    <nombre>Espronceda</nombre>
+		</autor>
+		<editor>El barco de vapor</editor>
+		<paginas>10</paginas>
+	</libro>
+</biblioteca>

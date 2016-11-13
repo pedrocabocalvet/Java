@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+      <libro>
+            <titulo>mi tio teo lee</titulo>
+            <autores>
+                  <nombre>pepito</nombre>
+                  <nombre>julito</nombre>
+            </autores>
+            <fecha>10-01-2014</fecha>
+            <editor>Alfaguara</editor>
+            <paginas>160</paginas>
+      </libro>
+      <libro>
+            <titulo>pulgarcito</titulo>
+            <autores>
+                  <nombre>Joselito</nombre>
+                  <nombre>Manolito</nombre>
+            </autores>
+            <fecha>15-08-2015</fecha>
+            <editor>Santillana</editor>
+            <paginas>320</paginas>
+      </libro>
+</libros>
