@@ -2,6 +2,14 @@ import java.util.Scanner;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
+// programa que multiplica una matriz por un array y guarda el resultado en un array de resultados,
+// lo hace de tres maneras, la primera sin threads,
+// la segunda con un thread por cada linea de la matriz
+// y la tercera con un poolExecutor, para ver esta opcion ir al metodo calcularConPoolExecutor() de la clase inicio
+// y ver como lo hace
+
+
+
 public class Inicio {
 
 	int [][] matriz;
