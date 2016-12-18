@@ -76,7 +76,8 @@ public class parseLibro {
 		String editor = getTextValue(libroEle,"editor");
 		int paginas = getIntValue(libroEle,"paginas");
 		String titulo = getTextValue(libroEle,"titulo");
-		String fecha = getAtributeValue(libroEle,"titulo","anyo");
+		//String fecha = getAtributeValue(libroEle,"titulo","anyo");
+		String fecha = getTextValue(libroEle,"anyo");
 		ArrayList<String> autores = getTextValues(libroEle,"autor");
 		
 		String arrayAutores[] = new String[autores.size()];

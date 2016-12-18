@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <biblioteca>
 	<libro>
-		<titulo anyo="2008">Introduction to Linux</titulo>
+		<titulo>Introduction to Linux</titulo>
+		<anyo>2008</anyo>
 		<autor>
 		    <nombre>Machtelt</nombre> 
 		    <nombre>Garrels</nombre>		 
@@ -10,7 +11,8 @@
 		<paginas>256</paginas>
 	</libro>
 	<libro>
-		<titulo anyo="1991">El lenguaje de programación C</titulo>
+		<titulo>El lenguaje de programación C</titulo>
+		<anyo>1991</anyo>
 		<autor>
 		    <nombre>Kernighan</nombre> 
 		    <nombre>Ritchie</nombre>
@@ -19,7 +21,8 @@
 		<paginas>294</paginas>
 	</libro>
 	<libro>
-		<titulo anyo="2016">Mi tio teo lee</titulo>
+		<titulo>Mi tio teo lee</titulo>
+		<anyo>2016</anyo>
 		<autor>
 		    <nombre>Arturito</nombre> 		 
 		</autor>
@@ -27,7 +30,8 @@
 		<paginas>340</paginas>
 	</libro>
 	<libro>
-		<titulo anyo="1991">Excursión al parque</titulo>
+		<titulo>Excursión al parque</titulo>
+		<anyo>1991</anyo>
 		<autor>
 		    <nombre>Cervantes</nombre> 
 		    <nombre>Poe</nombre>
