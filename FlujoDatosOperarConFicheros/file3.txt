@@ -1,0 +1,12 @@
+casa
+coche
+moto
+perro
+gato
+raton
+chucho
+feria
+gato
+pelicula
+raton
+luis
