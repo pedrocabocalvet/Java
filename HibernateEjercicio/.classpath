@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/hibernate-core-5.2.6.Final.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/hibernate/librerias/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="lib" path="F:/PROGRAMAS/libreria java/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

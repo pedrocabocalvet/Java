@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 16-ene-2017 19:04:43 by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="Pedido" table="pedidos">
+        <id name="id" type="int">
+            <column name="ID" />
+            <generator class="increment" />
+        </id>
+        <property name="fecha" type="java.sql.Date">
+            <column name="FECHA" />
+        </property>
+    </class>
+</hibernate-mapping>
